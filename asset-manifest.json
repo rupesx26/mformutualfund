@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mformutualfund/static/css/main.bc9104e8.css",
+    "main.js": "/mformutualfund/static/js/main.9dce6541.js",
+    "static/js/453.fc89fcfa.chunk.js": "/mformutualfund/static/js/453.fc89fcfa.chunk.js",
+    "static/media/logo.svg": "/mformutualfund/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mformutualfund/index.html",
+    "main.bc9104e8.css.map": "/mformutualfund/static/css/main.bc9104e8.css.map",
+    "main.9dce6541.js.map": "/mformutualfund/static/js/main.9dce6541.js.map",
+    "453.fc89fcfa.chunk.js.map": "/mformutualfund/static/js/453.fc89fcfa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc9104e8.css",
+    "static/js/main.9dce6541.js"
+  ]
+}
